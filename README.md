@@ -38,5 +38,11 @@
 ### ● Cheat Codes
 - These ones are a secret! :]
 
+## Credits:
+- All of the Arena map musics and the Title Screen music are owned by Nintendo Co., Ltd and remixed by Tater-Tot Tunes;
+- The Game Over screen music is owned by Toby Fox;
+- Walk and slot change sound effects owned by Mojang Studios;
+- Mouse Scrolling Detector by Dratche.
+
 ## License
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
