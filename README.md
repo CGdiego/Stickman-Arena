@@ -1,6 +1,7 @@
 # 🎮 The Game
 
-👉 **Play here:** https://diegos-cs.github.io/Stickman-Arena/
+👉 **Play here:** https://cgdiego.github.io/Stickman-Arena/
+)
 
 ---
 
