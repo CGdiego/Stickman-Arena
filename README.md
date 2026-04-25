@@ -8,7 +8,7 @@
 
 ## ⚪ The controls are simple: ⚪
 - "W, A, S, D" to move;
-  "Mouse" to aim;
+- "Mouse" to aim;
 - "Space Bar" to dash;
 - "Left Mouse Button" to shoot;
 - "1, 2, 3" or "Mouse Scroll Wheel" to change the bullet.
