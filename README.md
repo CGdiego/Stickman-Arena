@@ -1,3 +1,4 @@
+
 # 🎮 The Game
 
 👉 **Play here:** https://cgdiego.github.io/Stickman-Arena/
@@ -5,6 +6,15 @@
 ---
 
 ## ⚪ Welcome to the beta of Stickman Arena! ⚪
+
+<p align="center">
+  <img
+    width="640"
+    height="480"
+    alt="StickmanArenaThumb"
+    src="https://github.com/user-attachments/assets/a71e0b68-73a5-4e0c-8695-5988f930e857"
+  />
+</p>
 
 ## ⚪ The controls are simple: ⚪
 - "W, A, S, D" to move;
