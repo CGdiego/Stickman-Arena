@@ -9,8 +9,8 @@
 
 <p align="center">
   <img
-    width="640"
-    height="480"
+    width="400"
+    height="300"
     alt="StickmanArenaThumb"
     src="https://github.com/user-attachments/assets/a71e0b68-73a5-4e0c-8695-5988f930e857"
   />
