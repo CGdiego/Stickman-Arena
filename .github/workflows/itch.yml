@@ -23,4 +23,4 @@ jobs:
         env:
           BUTLER_API_KEY: ${{ secrets.BUTLER_API_KEY }}
         run: |
-          ./butler push . charmandercg/stickman-arena:web
+          ./butler push . dcg-dev/stickman-arena:web
