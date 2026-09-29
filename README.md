@@ -43,7 +43,8 @@
 - There are currently 4 phases, which switch every 1 minute. They increase the spawn rates of enemies and add new enemies to the mix. The plan is to get to 15 phases;
 - If you stay near walls, enemies will not target you immediately, as they cannot see you;
 - The Frenzy Bar charges a bit every time you kill an enemy, until it gets full, allowing you to move faster, shoot faster and dash farther;
-- When the Dash Bar gets full, you are able to dash.
+- When the Dash Bar gets full, you are able to dash;
+- Whenever you kill an enemy, there's a small chance a cure heart will appear.
 
 ### ● Cheat Codes
 - These ones are a secret! :]
